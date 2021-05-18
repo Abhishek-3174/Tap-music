@@ -32,5 +32,5 @@ window.addEventListener("load", () => {
 });
 function f1()
 	{
-		window.location="regitrastion.html"
+		window.location="https://github.com/Abhishek-3174/Tap-music"
 	}
